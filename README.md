@@ -52,3 +52,5 @@
 </pre>
 
 ## Swegger:
+
+<img src="Swegger.PNG"/>
