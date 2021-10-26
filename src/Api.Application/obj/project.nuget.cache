@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/OZ0coIMK/fBSLqYn5NpAlnVlCU2/B+UsrVgoA2ZvX5hV7ECF+ocussJED4YfJa5qc0G8aE/RZYEFeFuDMGnA==",
+  "dgSpecHash": "x0q95uK6UY+P3ZgMKXgLTY3OymoYFpcw46eq0hPzxW7cXPT5B0vAuLN9vjjDQD5+DiS4GvdidCyDEN031UhwgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Application\\application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\acerte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\acerte\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\acerte\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\acerte\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\acerte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\acerte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
