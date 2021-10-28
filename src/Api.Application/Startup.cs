@@ -31,25 +31,25 @@ namespace application
             ConfigureService.ConfigureDependenciesService(services);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo
-                {
-                    Version = "v1",
-                    Title = "API com AspNetCore 3.1",
-                    Description = "Arquitetura DDD",
-                    Contact = new OpenApiContact
-                    {
-                        Name = "Lucas Silva",
-                        Email = "lucasmaciel6690@mail.com"
-                    },
-                    License = new OpenApiLicense
-                    {
-                        Name = "Termo de Licença de Uso",
-                        Url = new Uri("#")
-                    }
-                });
-            });
+            // services.AddSwaggerGen(c =>
+            // {
+            //     c.SwaggerDoc("v1", new OpenApiInfo
+            //     {
+            //         Version = "v1",
+            //         Title = "API com AspNetCore 3.1",
+            //         Description = "Arquitetura DDD",
+            //         Contact = new OpenApiContact
+            //         {
+            //             Name = "Lucas Silva",
+            //             Email = "lucasmaciel6690@mail.com"
+            //         },
+            //         License = new OpenApiLicense
+            //         {
+            //             Name = "Termo de Licença de Uso",
+            //             Url = new Uri("#")
+            //         }
+            //     });
+            // });
 
         }
 

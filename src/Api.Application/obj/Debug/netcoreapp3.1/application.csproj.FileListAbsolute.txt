@@ -70,3 +70,4 @@ C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreap
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete

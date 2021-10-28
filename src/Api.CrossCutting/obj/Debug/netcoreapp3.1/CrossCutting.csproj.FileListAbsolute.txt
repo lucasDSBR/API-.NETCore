@@ -14,3 +14,4 @@ C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.CrossCutting\bin\Debug\netcorea
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
