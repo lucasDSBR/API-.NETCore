@@ -19,6 +19,10 @@
         -  dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.1.6
     - AutoMapper.Extensions.Microsoft.DependencyInjection
         - dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection --version 6.1.1
+    - System.IdentityModel.Tokens.Jwt
+        - dotnet add package System.IdentityModel.Tokens.Jwt --version 5.5.0
+    - Microsoft.AspNetCore.Authentication.JwtBearer
+        - dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 3.1.6
 
 
 ## Criando banco de dados
