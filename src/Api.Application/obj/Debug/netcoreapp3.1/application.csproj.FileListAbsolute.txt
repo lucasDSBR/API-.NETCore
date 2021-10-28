@@ -70,4 +70,10 @@ C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreap
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
-C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

@@ -12,4 +12,3 @@ C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Service\bin\Debug\netcoreapp3.1
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
 C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\acerte\Desktop\git\API-.NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
