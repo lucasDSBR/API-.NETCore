@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cxCLFBYbweneS4oevQU7zHSAX+ivGaXVvSNVdoHYIFalrtCtM01WHZCtVXL7bgVsRqnJWMAsin4b+0TH1Zp7Yg==",
+  "dgSpecHash": "N/nRRhA+i3i2AHXWrZzSz+h6UubAX/DTSFWwJGaKjLXc9UZfZ89l98aFfimyZFFPRQgtbrgiEghD4TITIEsuhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\FREELANCERS\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\acerte\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
