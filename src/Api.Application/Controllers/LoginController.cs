@@ -24,13 +24,11 @@ namespace Api.Application.Controllers
         public async Task<object> Login([FromBody] LoginDto loginDto)
         {
             if(!ModelState.IsValid)
-            {
                 return BadRequest(ModelState); //400 bad request - solicitação inválida
-            }
+
             if(loginDto == null)
-            {
                 return BadRequest(ModelState); //400 bad request - solicitação
-            }
+
             try
             {
                 var result = await _service.FindByLogin(loginDto);
