@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EvDE4TeX9O9d4VM6vu3xEZ/d5rnaLysxENtHtGIX2mS5ZHB5UHwIvZ4h32rz8mLDObTZLJLFYVIJvEtvJ7rxfg==",
+  "dgSpecHash": "KZTvYCYlfz3cSZyXu/iK/g1w6HPrDfGqYqHdOkof1Ufd1iTxBmlOdsSy5L4Ib7CKU8woxWCxD0D+LHLp7t/FCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acerte\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\acerte\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -3446,11 +3446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\acerte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\obj\\",
+      "outputPath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3502,7 +3502,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

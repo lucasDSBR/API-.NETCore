@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGwJEoX9npYtkNur+xzD7wJdvtRXql44lAzUiscNN+CiXcCb8IQit4pIaEzjX9nmiM/P3WQacjxSRFRV1TNBiw==",
+  "dgSpecHash": "C+4jei7UqvmPp/f1JBy3pkeV7yJY6O8DGoUCko/wYjkawWYY9G/iOZ4r31O2svpckyuIi14tmPCz5m0XrtWIGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acerte\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\acerte\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

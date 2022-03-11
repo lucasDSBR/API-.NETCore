@@ -5321,11 +5321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Data\\Data.csproj",
+      "projectPath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\acerte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Data\\obj\\",
+      "outputPath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5345,8 +5345,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\acerte\\Desktop\\git\\API-.NETCore\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\acerte\\Desktop\\git\\CURSOS\\UDEMY\\API-.NETCore\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
@@ -5397,7 +5397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
